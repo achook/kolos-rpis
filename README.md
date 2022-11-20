@@ -1,0 +1,3 @@
+# kolos-rpis
+
+Statistics assignment 
